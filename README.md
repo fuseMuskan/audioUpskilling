@@ -12,7 +12,7 @@
 
 ## Sprint 3
 * <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/source_separation/SepFormer.md"> Notes on SepFormer </a>
-* <a href = "">Notes on Spleeter</a>
+* <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/source_separation/Spleeter.md">Notes on Spleeter</a>
 * <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/source_separation/SourceSeparation.ipynb">Basic Implementation of SepFormer </a>
 * <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/source_separation/source_separation_using_spleeter.ipynb">Basic Implementation of Spleeter </a>
 * <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/data_preparation/musdb_data_prep.ipynb">Data Preparation on MUSDB18</a>
