@@ -15,11 +15,12 @@
 * <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/source_separation/Spleeter.md">Notes on Spleeter</a>
 * <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/source_separation/SourceSeparation.ipynb">Basic Implementation of SepFormer </a>
 * <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/source_separation/source_separation_using_spleeter.ipynb">Basic Implementation of Spleeter </a>
-* <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/data_preparation/musdb_data_prep.ipynb">Data Preparation on Whmar for SepFormer (! Not Completed)</a>
 * <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/data_preparation/musdb_data_prep.ipynb">Data Preparation on MUSDB18 for Spleeter</a>
 
 ## Sprint 4
-* <a href = "">Fine Tuning SepFormer Model (Next Week !)</a>
+- Fine Tuning SepFormer (Wham) Model
+  - <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/fine_tuning/sepformer_wham.ipynb">Notebook </a>
+  - <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/fine_tuning/SepFormer_training.md"> Readme File </a>
 * <a href = "">Fine Tuning Spleeter Model (Next Week !)</a>
 * <a href = "">Implement Multi Channel Source Separation with models of Asterioid, FASTNET TAC or NBSS (Next Week !)</a>
 
