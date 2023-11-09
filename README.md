@@ -21,7 +21,7 @@
 - Fine Tuning SepFormer (Wham) Model
   - <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/fine_tuning/sepformer_wham.ipynb">Notebook </a>
   - <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/fine_tuning/SepFormer_training.md"> Readme File </a>
-* <a href = "https://github.com/fuseMuskan/audioUpskilling/tree/main/multi_channel_source_sep">Implement Multi Channel Source Separation with models of Asterioid, FASTNET TAC or NBSS</a>
+* Implement Multi Channel Source Separation with models of Asterioid, FASTNET TAC or NBSS
   - <a href = "https://github.com/fuseMuskan/audioUpskilling/blob/main/multi_channel_source_sep/multi_channel_separation_asterioid.ipynb">Asteroid</a>
   
 
